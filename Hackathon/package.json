@@ -1,0 +1,12 @@
+{
+  "name": "hackathon_my-resume-milestone1",
+  "version": "1.0.0",
+  "description": "Satic resume",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hafiz M Atiq 00055468",
+  "license": "MIT"
+}
